@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carteria(POO)", "Carteria(POO)\Carteria(POO).csproj", "{EDDADDD0-4868-44E6-9AAC-421BDB0B8EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDADDD0-4868-44E6-9AAC-421BDB0B8EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDADDD0-4868-44E6-9AAC-421BDB0B8EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDADDD0-4868-44E6-9AAC-421BDB0B8EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDADDD0-4868-44E6-9AAC-421BDB0B8EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99D43D5-DF2F-48EA-A3E8-5D49C965ADD4}
+	EndGlobalSection
+EndGlobal
